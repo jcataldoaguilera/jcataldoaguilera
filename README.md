@@ -5,6 +5,5 @@
 
 - 🔭 Trabajo como Analista de Sistemas UNIX
 - 🌱 Aprendiendo Python / SQL
-- 📖 Estudié Ingeniería en Conectividad y Redes
 - 💻 Profesional con 5 años de experiencia en soporte y administración de sistemas, especializado en entornos Unix y gestión de datacenters.
 
